@@ -1,0 +1,9 @@
+From: stone_control <woaiwan123@sohu.com>
+Sender: stone <woaiwan123@sohu.com>
+To: stone_ai <stonekakaai@sohu.com>
+Subject: Saying Hello
+Date: Fri, 21 Nov 1997 09:55:06 -0600
+Message-ID: <1234@local.machine.example>
+
+This is a message just to say hello.
+So, "Hello".
